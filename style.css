@@ -1,0 +1,54 @@
+.poti{
+    float: right;
+    text-align: center;
+}
+p{
+    font-family:Courier New;
+}
+
+footer{
+    padding: 15px;
+    border:3px dotted red;
+}
+img {
+    width:900px;
+    height: 670px;
+    
+}
+.poet{
+    border:3px solid black;
+
+
+}
+div {
+    border:3px dotted red;
+    padding:12px;
+    margin-top:12px;
+}
+ nav a{
+    text-decoration: none;
+    margin: 65px;
+}
+a {
+    background-color: yellow;
+    border-radius: 9px;
+    padding: 9px;
+}
+.h1{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+img:hover {
+    border:3px solid yellow;
+    padding: 6px;
+    box-shadow: 15px 11px 4px 0 yellow;
+
+}
+.sait{
+    font-size:23px;
+}
+a:hover{
+    opacity:0.5;
+}
